@@ -13,8 +13,7 @@
     "require": {
         "php": "^8.0",
         "yiisoft/yii2": "^2.0.45",
-        "w7corp/easywechat": "^6.7",
-        "davidxu/yii2-base": "^1.0.5"
+        "w7corp/easywechat": "^6.7"
     },
     "autoload": {
         "psr-4": {
